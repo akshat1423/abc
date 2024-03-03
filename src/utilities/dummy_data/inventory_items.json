@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G601"
+        },
+        "category": "Books",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "1/50"
+    },
+    {
+        "id": 2,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G602"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "2/50"
+    },
+    {
+        "id": 3,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G603"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "3/50"
+    },
+    {
+        "id": 4,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G604"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "4/50"
+    },
+    {
+        "id": 5,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G605"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "5/50"
+    },
+    {
+        "id": 6,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G606"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "6/50"
+    },
+    {
+        "id": 7,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G607"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "7/50"
+    },
+    {
+        "id": 8,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G608"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "8/50"
+    },
+    {
+        "id": 9,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G609"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "9/50"
+    },
+    {
+        "id": 10,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G610"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "10/50"
+    },
+    {
+        "id": 11,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G611"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "11/50"
+    },
+    {
+        "id": 12,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G612"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "12/50"
+    },
+    {
+        "id": 13,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G613"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "13/50"
+    },
+    {
+        "id": 14,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G614"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "14/50"
+    },
+    {
+        "id": 15,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G615"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "15/50"
+    },
+    {
+        "id": 16,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G616"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "16/50"
+    },
+    {
+        "id": 17,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G617"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "17/50"
+    },
+    {
+        "id": 18,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G618"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "18/50"
+    },
+    {
+        "id": 19,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G619"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "19/50"
+    },
+    {
+        "id": 20,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G620"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "20/50"
+    },
+    {
+        "id": 21,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G621"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "21/50"
+    },
+    {
+        "id": 22,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G622"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "22/50"
+    },
+    {
+        "id": 23,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G623"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "23/50"
+    },
+    {
+        "id": 24,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G624"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "24/50"
+    },
+    {
+        "id": 25,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G625"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "25/50"
+    },
+    {
+        "id": 26,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G626"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "26/50"
+    },
+    {
+        "id": 27,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G627"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "27/50"
+    },
+    {
+        "id": 28,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G628"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "28/50"
+    },
+    {
+        "id": 29,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G629"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "29/50"
+    },
+    {
+        "id": 30,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G630"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "30/50"
+    },
+    {
+        "id": 31,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G631"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "31/50"
+    },
+    {
+        "id": 32,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G632"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "32/50"
+    },
+    {
+        "id": 33,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G633"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "33/50"
+    },
+    {
+        "id": 34,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G634"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "34/50"
+    },
+    {
+        "id": 35,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G635"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "35/50"
+    },
+    {
+        "id": 36,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G636"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "36/50"
+    },
+    {
+        "id": 37,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G637"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "37/50"
+    },
+    {
+        "id": 38,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G638"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "38/50"
+    },
+    {
+        "id": 39,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G639"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "39/50"
+    },
+    {
+        "id": 40,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G640"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "40/50"
+    },
+    {
+        "id": 41,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G641"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "41/50"
+    },
+    {
+        "id": 42,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G642"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "42/50"
+    },
+    {
+        "id": 43,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G643"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "43/50"
+    },
+    {
+        "id": 44,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G644"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "44/50"
+    },
+    {
+        "id": 45,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G645"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "45/50"
+    },
+    {
+        "id": 46,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G646"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "46/50"
+    },
+    {
+        "id": 47,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G647"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "47/50"
+    },
+    {
+        "id": 48,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G648"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "48/50"
+    },
+    {
+        "id": 49,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G649"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "49/50"
+    },
+    {
+        "id": 50,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G650"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "0/50"
+    },
+    {
+        "id": 51,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G651"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "1/50"
+    },
+    {
+        "id": 52,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G652"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "2/50"
+    },
+    {
+        "id": 53,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G653"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "3/50"
+    },
+    {
+        "id": 54,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G654"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "4/50"
+    },
+    {
+        "id": 55,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G655"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "5/50"
+    },
+    {
+        "id": 56,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G656"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "6/50"
+    },
+    {
+        "id": 57,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G657"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "7/50"
+    },
+    {
+        "id": 58,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G658"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "8/50"
+    },
+    {
+        "id": 59,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G659"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "9/50"
+    },
+    {
+        "id": 60,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G660"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "10/50"
+    },
+    {
+        "id": 61,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G661"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "11/50"
+    },
+    {
+        "id": 62,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G662"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "12/50"
+    },
+    {
+        "id": 63,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G663"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "13/50"
+    },
+    {
+        "id": 64,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G664"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "14/50"
+    },
+    {
+        "id": 65,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G665"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "15/50"
+    },
+    {
+        "id": 66,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G666"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "16/50"
+    },
+    {
+        "id": 67,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G667"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "17/50"
+    },
+    {
+        "id": 68,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G668"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "18/50"
+    },
+    {
+        "id": 69,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G669"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "19/50"
+    },
+    {
+        "id": 70,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G670"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "20/50"
+    },
+    {
+        "id": 71,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G671"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "21/50"
+    },
+    {
+        "id": 72,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G672"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "22/50"
+    },
+    {
+        "id": 73,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G673"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "23/50"
+    },
+    {
+        "id": 74,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G674"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "24/50"
+    },
+    {
+        "id": 75,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G675"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "25/50"
+    },
+    {
+        "id": 76,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G676"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "26/50"
+    },
+    {
+        "id": 77,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G677"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "27/50"
+    },
+    {
+        "id": 78,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G678"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "28/50"
+    },
+    {
+        "id": 79,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G679"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "29/50"
+    },
+    {
+        "id": 80,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G680"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "30/50"
+    },
+    {
+        "id": 81,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G681"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "31/50"
+    },
+    {
+        "id": 82,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G682"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "32/50"
+    },
+    {
+        "id": 83,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G683"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "33/50"
+    },
+    {
+        "id": 84,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G684"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "34/50"
+    },
+    {
+        "id": 85,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G685"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "35/50"
+    },
+    {
+        "id": 86,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G686"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "36/50"
+    },
+    {
+        "id": 87,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G687"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "37/50"
+    },
+    {
+        "id": 88,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G688"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "38/50"
+    },
+    {
+        "id": 89,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G689"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "39/50"
+    },
+    {
+        "id": 90,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G690"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "40/50"
+    },
+    {
+        "id": 91,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G691"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "41/50"
+    },
+    {
+        "id": 92,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G692"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "42/50"
+    },
+    {
+        "id": 93,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G693"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "43/50"
+    },
+    {
+        "id": 94,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G694"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "44/50"
+    },
+    {
+        "id": 95,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G695"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "45/50"
+    },
+    {
+        "id": 96,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G696"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "46/50"
+    },
+    {
+        "id": 97,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G697"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "47/50"
+    },
+    {
+        "id": 98,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G698"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "48/50"
+    },
+    {
+        "id": 99,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G699"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "49/50"
+    },
+    {
+        "id": 100,
+        "itemDetails": {
+            "image": "/mnt/data/image.png",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G6100"
+        },
+        "category": "Electronics",
+        "description": "dolore eu fugiat nulla pariatur...",
+        "availability": "0/50"
+    }
+]

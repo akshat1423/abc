@@ -1,0 +1,2302 @@
+[
+    {
+        "id": 1,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G001"
+        },
+        "group": "B",
+        "category": "books",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "25",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 2,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "Microscope",
+            "subtext": "CR10SPB201H1245G002"
+        },
+        "group": "A",
+        "category": "Books",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "26/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 3,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G003"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "27/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 4,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G004"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "28/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 5,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G005"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "29/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 6,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G006"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "30/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 7,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G007"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "31/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 8,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G008"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "32/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 9,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G009"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "33/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 10,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G010"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "34/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 11,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G011"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "35/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 12,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G012"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "36/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 13,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G013"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "37/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 14,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G014"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "38/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 15,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G015"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "39/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 16,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G016"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "40/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 17,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G017"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "41/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 18,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G018"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "42/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 19,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G019"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "43/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 20,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G020"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "44/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 21,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G021"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "24/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 22,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G022"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "25/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 23,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G023"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "26/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 24,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G024"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "27/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 25,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G025"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "28/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 26,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G026"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "29/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 27,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G027"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "30/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 28,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G028"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "31/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 29,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G029"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "32/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 30,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G030"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "33/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 31,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G031"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "34/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 32,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G032"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "35/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 33,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G033"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "36/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 34,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G034"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "37/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 35,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G035"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "38/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 36,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G036"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "39/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 37,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G037"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "40/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 38,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G038"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "41/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 39,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G039"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "42/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 40,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G040"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "43/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 41,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G041"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "44/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 42,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G042"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "24/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 43,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G043"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "25/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 44,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G044"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "26/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 45,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G045"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "27/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 46,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G046"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "28/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 47,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G047"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "29/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 48,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G048"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "30/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 49,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G049"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "31/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 50,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G050"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "32/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 51,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G051"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "33/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 52,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G052"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "34/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 53,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G053"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "35/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 54,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G054"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "36/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 55,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G055"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "37/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 56,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G056"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "38/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 57,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G057"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "39/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 58,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G058"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "40/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 59,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G059"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "41/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 60,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G060"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "42/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 61,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G061"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "43/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 62,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G062"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "44/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 63,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G063"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "24/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 64,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G064"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "25/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 65,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G065"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "26/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 66,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G066"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "27/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 67,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G067"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "28/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 68,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G068"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "29/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 69,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G069"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "30/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 70,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G070"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "31/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 71,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G071"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "32/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 72,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G072"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "33/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 73,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G073"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "34/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 74,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G074"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "35/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 75,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G075"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "36/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 76,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G076"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "37/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 77,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G077"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "38/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 78,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G078"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "39/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 79,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G079"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "40/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 80,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G080"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "41/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 81,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G081"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "42/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 82,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G082"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "43/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 83,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G083"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "44/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 84,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G084"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "24/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 85,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G085"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "25/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 86,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G086"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "26/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 87,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G087"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "27/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 88,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G088"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "28/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 89,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G089"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "29/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 90,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G090"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "30/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 91,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G091"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "31/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 92,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G092"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "32/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 93,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G093"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "33/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 94,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G094"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "34/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 95,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G095"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "35/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 96,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G096"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "36/46",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 97,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G097"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "37/47",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 98,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G098"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "38/48",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 99,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G099"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "39/49",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    },
+    {
+        "id": 100,
+        "itemDetails": {
+            "image": "path_to_image.jpg",
+            "text": "3D Printer",
+            "subtext": "CR10SPB201H1245G100"
+        },
+        "group": "A",
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "tags": [
+            "star",
+            "gear",
+            "wifi",
+            "loop"
+        ],
+        "availability": "40/45",
+        "action": [
+            "edit",
+            "delete",
+            "arrow_upward"
+        ]
+    }
+]

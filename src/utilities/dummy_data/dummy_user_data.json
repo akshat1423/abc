@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 2,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 3,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 4,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 5,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 6,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 7,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 8,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 9,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    },
+    {
+        "id": 10,
+        "userName": "Jay Kishor",
+        "email": "jay02@gmail.com",
+        "avatar": "path_to_avatar_image.jpg",
+        "role": "TL Manager",
+        "category": "Electronics",
+        "groupName": "Mapit.ai",
+        "action": "Accept/Decline"
+    }
+]

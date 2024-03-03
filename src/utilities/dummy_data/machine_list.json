@@ -1,0 +1,172 @@
+[
+  {
+    "product_type": "machine",
+    "sku_code": "J2CZV9D1R4",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 34,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "3IXX217C4A",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 6,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "G53ECMNPFT",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 44,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "VV9A3QA9I2",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 15,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "1V0ODBNBKI",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 37,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "Z6XBEK6ZOM",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 49,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "XCW0W3FF4D",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 21,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "XKBYI0Y4NC",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 17,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "YX7S0K9ZZ4",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 48,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  },
+  {
+    "product_type": "machine",
+    "sku_code": "S65R72BYYH",
+    "manufacturer_name": "Example Manufacturer",
+    "machine_cost": "10000",
+    "product_image": "path/to/image.png",
+    "description": "A reliable 3D printer suitable for industrial applications.",
+    "category": "Electronics",
+    "product_name": "3D Printer",
+    "stock_available": 45,
+    "tag": [
+      "tag_1",
+      "tag_2",
+      "tag_3",
+      "tag_4"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "groupName": "Group 1",
+    "members": "member1@example.com",
+    "description": "dolore eu fugiat nulla pariatur...",
+    "actions": [
+      "delete",
+      "edit"
+    ],
+    "avatars": [
+      "https://i.pravatar.cc/150?u=1a",
+      "https://i.pravatar.cc/150?u=1b",
+      "https://i.pravatar.cc/150?u=1c"
+    ]
+  },
+  {
+    "id": 2,
+    "groupName": "Group 2",
+    "members": "member2@example.com",
+    "description": "dolore eu fugiat nulla pariatur...",
+    "actions": [
+      "delete",
+      "edit"
+    ],
+    "avatars": [
+      "https://i.pravatar.cc/150?u=2a",
+      "https://i.pravatar.cc/150?u=2b",
+      "https://i.pravatar.cc/150?u=2c"
+    ]
+  },
+  {
+    "id": 3,
+    "groupName": "Group 3",
+    "members": "member3@example.com",
+    "description": "dolore eu fugiat nulla pariatur...",
+    "actions": [
+      "delete",
+      "edit"
+    ],
+    "avatars": [
+      "https://i.pravatar.cc/150?u=3a",
+      "https://i.pravatar.cc/150?u=3b",
+      "https://i.pravatar.cc/150?u=3c"
+    ]
+  },
+  {
+    "id": 4,
+    "groupName": "Group 4",
+    "members": "member4@example.com",
+    "description": "dolore eu fugiat nulla pariatur...",
+    "actions": [
+      "delete",
+      "edit"
+    ],
+    "avatars": [
+      "https://i.pravatar.cc/150?u=4a",
+      "https://i.pravatar.cc/150?u=4b",
+      "https://i.pravatar.cc/150?u=4c"
+    ]
+  },
+  {
+    "id": 5,
+    "groupName": "Group 5",
+    "members": "member5@example.com",
+    "description": "dolore eu fugiat nulla pariatur...",
+    "actions": [
+      "delete",
+      "edit"
+    ],
+    "avatars": [
+      "https://i.pravatar.cc/150?u=5a",
+      "https://i.pravatar.cc/150?u=5b",
+      "https://i.pravatar.cc/150?u=5c"
+    ]
+  }
+]
